@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajeshwari015
 - 👀 I’m interested in programmming..
 - 🌱 I’m currently learning computer languages...
-- 💞️ I’m looking to collaborate on web development projects...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web development and python projects.
+- 📫 How to reach me rajeshwaripavuluri@gmail.com
 
 <!---
 rajeshwari015/rajeshwari015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
