@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pavuluri Rajeshwari currently pursuing my Bachelors in Information technology at IARE. I am a tech fanatic and loves to develop websites. This is my GitHub profile where you can find all my projects and contributions. <br><br><br>I'm currently working on web development and python projects and learning C++, Machine learning.<br><br><br>How to reach me rajeshwaripavuluri@gmail.com<br><br>Fun fact- I love to cook, but I'm a one-trick pony- and that trick is maggi!!<br>
+Hi, I'm Pavuluri Rajeshwari currently pursuing my Bachelors in Information technology at IARE. I am a tech fanatic and loves to develop websites. This is my GitHub profile where you can find all my projects and contributions. <br><br><br>I'm currently working on web development and python projects and learning C++, Machine learning.<br><br><br>How to reach me rajeshwaripavuluri@gmail.com<br><br>Fun fact- I love to cook, but I'm a one-trick pony- and that trick is maggi!!:sweat_smile: <br>
 
 
 ## 🌐 Socials:
